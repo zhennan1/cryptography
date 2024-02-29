@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.md": "markdown",
+        "cstdlib": "cpp"
+    }
+}

@@ -1,0 +1,4 @@
+Encryption time: 0.000001 seconds
+Ciphertext: 81 f6 12 fd f1 2d 11 5c 96 6a 8b 39 a5 59 42 e4 
+Decryption time: 0.000001 seconds
+Plaintext: Hello, world!
